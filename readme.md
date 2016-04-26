@@ -5,17 +5,11 @@
 ##Create MySQL Query
 
 CREATE TABLE `nodemysql`.`screenshots` (
-
     `id` INT NOT NULL AUTO_INCREMENT,
-
     `url` VARCHAR(255) NOT NULL,
-
     `width` INT NULL,
-
     `height` INT NULL,
-
     `timestamp` TIMESTAMP NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
-
     PRIMARY KEY (`id`));
 
 
