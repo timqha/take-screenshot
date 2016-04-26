@@ -15,7 +15,7 @@
 
 ##Install the module:
 
-    npm i https://github.com/
+    npm i https://github.com/timqha/take-screenshot
 
 ##Example of use:
 
